@@ -1,0 +1,1 @@
+[{"navFile":"src/main/res/navigation/nav_graph.xml","javaFiles":["com.flexath.notes.ui.fragment.HomeFragmentDirections","com.flexath.notes.ui.fragment.AddNoteFragmentDirections","com.flexath.notes.ui.fragment.UpdateNoteFragmentDirections","com.flexath.notes.ui.fragment.UpdateNoteFragmentArgs"]}]

@@ -1,0 +1,154 @@
+[
+    {
+        "merged": "com.flexath.notes.app-merged_res-53:/xml_data_extraction_rules.xml.flat",
+        "source": "com.flexath.notes.app-main-55:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "/home/flexath/.gradle/daemon/7.3.3/com.flexath.notes.app-merged_res-53:/navigation_nav_graph.xml.flat",
+        "source": "/home/flexath/.gradle/daemon/7.3.3/com.flexath.notes.app-main-55:/navigation/nav_graph.xml"
+    },
+    {
+        "merged": "/home/flexath/.gradle/daemon/7.3.3/com.flexath.notes.app-merged_res-53:/layout_fragment_add_note.xml.flat",
+        "source": "/home/flexath/.gradle/daemon/7.3.3/com.flexath.notes.app-main-55:/layout/fragment_add_note.xml"
+    },
+    {
+        "merged": "/home/flexath/.gradle/daemon/7.3.3/com.flexath.notes.app-merged_res-53:/xml_data_extraction_rules.xml.flat",
+        "source": "/home/flexath/.gradle/daemon/7.3.3/com.flexath.notes.app-main-55:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "/home/flexath/.gradle/daemon/7.3.3/com.flexath.notes.app-merged_res-53:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "/home/flexath/.gradle/daemon/7.3.3/com.flexath.notes.app-main-55:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/flexath/.gradle/daemon/7.3.3/com.flexath.notes.app-merged_res-53:/drawable_ic_check.xml.flat",
+        "source": "/home/flexath/.gradle/daemon/7.3.3/com.flexath.notes.app-main-55:/drawable/ic_check.xml"
+    },
+    {
+        "merged": "/home/flexath/.gradle/daemon/7.3.3/com.flexath.notes.app-merged_res-53:/mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "/home/flexath/.gradle/daemon/7.3.3/com.flexath.notes.app-main-55:/mipmap-xxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/home/flexath/.gradle/daemon/7.3.3/com.flexath.notes.app-merged_res-53:/xml_backup_rules.xml.flat",
+        "source": "/home/flexath/.gradle/daemon/7.3.3/com.flexath.notes.app-main-55:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "/home/flexath/.gradle/daemon/7.3.3/com.flexath.notes.app-merged_res-53:/mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "/home/flexath/.gradle/daemon/7.3.3/com.flexath.notes.app-main-55:/mipmap-xhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/home/flexath/.gradle/daemon/7.3.3/com.flexath.notes.app-merged_res-53:/layout_activity_main.xml.flat",
+        "source": "/home/flexath/.gradle/daemon/7.3.3/com.flexath.notes.app-main-55:/layout/activity_main.xml"
+    },
+    {
+        "merged": "/home/flexath/.gradle/daemon/7.3.3/com.flexath.notes.app-merged_res-53:/layout_fragment_update_note.xml.flat",
+        "source": "/home/flexath/.gradle/daemon/7.3.3/com.flexath.notes.app-main-55:/layout/fragment_update_note.xml"
+    },
+    {
+        "merged": "/home/flexath/.gradle/daemon/7.3.3/com.flexath.notes.app-merged_res-53:/drawable_ic_note.xml.flat",
+        "source": "/home/flexath/.gradle/daemon/7.3.3/com.flexath.notes.app-main-55:/drawable/ic_note.xml"
+    },
+    {
+        "merged": "/home/flexath/.gradle/daemon/7.3.3/com.flexath.notes.app-merged_res-53:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "/home/flexath/.gradle/daemon/7.3.3/com.flexath.notes.app-main-55:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/flexath/.gradle/daemon/7.3.3/com.flexath.notes.app-merged_res-53:/drawable_ic_add.xml.flat",
+        "source": "/home/flexath/.gradle/daemon/7.3.3/com.flexath.notes.app-main-55:/drawable/ic_add.xml"
+    },
+    {
+        "merged": "/home/flexath/.gradle/daemon/7.3.3/com.flexath.notes.app-merged_res-53:/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "/home/flexath/.gradle/daemon/7.3.3/com.flexath.notes.app-main-55:/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/flexath/.gradle/daemon/7.3.3/com.flexath.notes.app-merged_res-53:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "/home/flexath/.gradle/daemon/7.3.3/com.flexath.notes.app-main-55:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/flexath/.gradle/daemon/7.3.3/com.flexath.notes.app-merged_res-53:/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "/home/flexath/.gradle/daemon/7.3.3/com.flexath.notes.app-main-55:/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/flexath/.gradle/daemon/7.3.3/com.flexath.notes.app-merged_res-53:/mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "/home/flexath/.gradle/daemon/7.3.3/com.flexath.notes.app-main-55:/mipmap-hdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/home/flexath/.gradle/daemon/7.3.3/com.flexath.notes.app-merged_res-53:/layout_list_item.xml.flat",
+        "source": "/home/flexath/.gradle/daemon/7.3.3/com.flexath.notes.app-main-55:/layout/list_item.xml"
+    },
+    {
+        "merged": "/home/flexath/.gradle/daemon/7.3.3/com.flexath.notes.app-merged_res-53:/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "/home/flexath/.gradle/daemon/7.3.3/com.flexath.notes.app-main-55:/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/flexath/.gradle/daemon/7.3.3/com.flexath.notes.app-merged_res-53:/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "/home/flexath/.gradle/daemon/7.3.3/com.flexath.notes.app-main-55:/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/flexath/.gradle/daemon/7.3.3/com.flexath.notes.app-merged_res-53:/drawable_ic_clear_all.xml.flat",
+        "source": "/home/flexath/.gradle/daemon/7.3.3/com.flexath.notes.app-main-55:/drawable/ic_clear_all.xml"
+    },
+    {
+        "merged": "/home/flexath/.gradle/daemon/7.3.3/com.flexath.notes.app-merged_res-53:/menu_add_menu.xml.flat",
+        "source": "/home/flexath/.gradle/daemon/7.3.3/com.flexath.notes.app-main-55:/menu/add_menu.xml"
+    },
+    {
+        "merged": "/home/flexath/.gradle/daemon/7.3.3/com.flexath.notes.app-merged_res-53:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "/home/flexath/.gradle/daemon/7.3.3/com.flexath.notes.app-main-55:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/flexath/.gradle/daemon/7.3.3/com.flexath.notes.app-merged_res-53:/drawable-v24_note.png.flat",
+        "source": "/home/flexath/.gradle/daemon/7.3.3/com.flexath.notes.app-main-55:/drawable-v24/note.png"
+    },
+    {
+        "merged": "/home/flexath/.gradle/daemon/7.3.3/com.flexath.notes.app-merged_res-53:/drawable_ic_launcher_background.xml.flat",
+        "source": "/home/flexath/.gradle/daemon/7.3.3/com.flexath.notes.app-main-55:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "/home/flexath/.gradle/daemon/7.3.3/com.flexath.notes.app-merged_res-53:/mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "/home/flexath/.gradle/daemon/7.3.3/com.flexath.notes.app-main-55:/mipmap-xxxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/home/flexath/.gradle/daemon/7.3.3/com.flexath.notes.app-merged_res-53:/mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "/home/flexath/.gradle/daemon/7.3.3/com.flexath.notes.app-main-55:/mipmap-mdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/home/flexath/.gradle/daemon/7.3.3/com.flexath.notes.app-merged_res-53:/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "/home/flexath/.gradle/daemon/7.3.3/com.flexath.notes.app-main-55:/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/flexath/.gradle/daemon/7.3.3/com.flexath.notes.app-merged_res-53:/font_russo_one.xml.flat",
+        "source": "/home/flexath/.gradle/daemon/7.3.3/com.flexath.notes.app-main-55:/font/russo_one.xml"
+    },
+    {
+        "merged": "/home/flexath/.gradle/daemon/7.3.3/com.flexath.notes.app-merged_res-53:/layout_fragment_home.xml.flat",
+        "source": "/home/flexath/.gradle/daemon/7.3.3/com.flexath.notes.app-main-55:/layout/fragment_home.xml"
+    },
+    {
+        "merged": "/home/flexath/.gradle/daemon/7.3.3/com.flexath.notes.app-merged_res-53:/drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "/home/flexath/.gradle/daemon/7.3.3/com.flexath.notes.app-pngs-48:/drawable-anydpi-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "/home/flexath/.gradle/daemon/7.3.3/com.flexath.notes.app-merged_res-53:/menu_home_menu.xml.flat",
+        "source": "/home/flexath/.gradle/daemon/7.3.3/com.flexath.notes.app-main-55:/menu/home_menu.xml"
+    },
+    {
+        "merged": "/home/flexath/.gradle/daemon/7.3.3/com.flexath.notes.app-merged_res-53:/drawable_ic_delete.xml.flat",
+        "source": "/home/flexath/.gradle/daemon/7.3.3/com.flexath.notes.app-main-55:/drawable/ic_delete.xml"
+    },
+    {
+        "merged": "/home/flexath/.gradle/daemon/7.3.3/com.flexath.notes.app-merged_res-53:/drawable_ic_share.xml.flat",
+        "source": "/home/flexath/.gradle/daemon/7.3.3/com.flexath.notes.app-main-55:/drawable/ic_share.xml"
+    },
+    {
+        "merged": "/home/flexath/.gradle/daemon/7.3.3/com.flexath.notes.app-merged_res-53:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "/home/flexath/.gradle/daemon/7.3.3/com.flexath.notes.app-main-55:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/flexath/.gradle/daemon/7.3.3/com.flexath.notes.app-merged_res-53:/drawable_ic_search.xml.flat",
+        "source": "/home/flexath/.gradle/daemon/7.3.3/com.flexath.notes.app-main-55:/drawable/ic_search.xml"
+    },
+    {
+        "merged": "/home/flexath/.gradle/daemon/7.3.3/com.flexath.notes.app-merged_res-53:/drawable_round_search_bar.xml.flat",
+        "source": "/home/flexath/.gradle/daemon/7.3.3/com.flexath.notes.app-main-55:/drawable/round_search_bar.xml"
+    }
+]

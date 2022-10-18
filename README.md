@@ -1,2 +1,2 @@
 # Notes
-This is third project on android development.
+This is my third project on Android Development.

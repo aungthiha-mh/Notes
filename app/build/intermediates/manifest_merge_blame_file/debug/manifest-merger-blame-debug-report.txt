@@ -1,0 +1,105 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.flexath.notes"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="21"
+8-->/home/flexath/AndroidStudioProjects/Notes Apps/Notes/app/src/main/AndroidManifest.xml
+9        android:targetSdkVersion="32" />
+9-->/home/flexath/AndroidStudioProjects/Notes Apps/Notes/app/src/main/AndroidManifest.xml
+10
+11    <application
+11-->/home/flexath/AndroidStudioProjects/Notes Apps/Notes/app/src/main/AndroidManifest.xml:6:5-28:19
+12        android:allowBackup="true"
+12-->/home/flexath/AndroidStudioProjects/Notes Apps/Notes/app/src/main/AndroidManifest.xml:7:9-35
+13        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+13-->[androidx.core:core:1.8.0] /home/flexath/.gradle/caches/transforms-3/0bbd1ac94e5abeb89e25cdfd432b4829/transformed/core-1.8.0/AndroidManifest.xml:24:18-86
+14        android:dataExtractionRules="@xml/data_extraction_rules"
+14-->/home/flexath/AndroidStudioProjects/Notes Apps/Notes/app/src/main/AndroidManifest.xml:8:9-65
+15        android:debuggable="true"
+16        android:fullBackupContent="@xml/backup_rules"
+16-->/home/flexath/AndroidStudioProjects/Notes Apps/Notes/app/src/main/AndroidManifest.xml:9:9-54
+17        android:icon="@mipmap/ic_launcher"
+17-->/home/flexath/AndroidStudioProjects/Notes Apps/Notes/app/src/main/AndroidManifest.xml:10:9-43
+18        android:label="Notes"
+18-->/home/flexath/AndroidStudioProjects/Notes Apps/Notes/app/src/main/AndroidManifest.xml:11:9-30
+19        android:roundIcon="@mipmap/ic_launcher_round"
+19-->/home/flexath/AndroidStudioProjects/Notes Apps/Notes/app/src/main/AndroidManifest.xml:12:9-54
+20        android:supportsRtl="true"
+20-->/home/flexath/AndroidStudioProjects/Notes Apps/Notes/app/src/main/AndroidManifest.xml:13:9-35
+21        android:testOnly="true"
+22        android:theme="@style/Theme.Notes" >
+22-->/home/flexath/AndroidStudioProjects/Notes Apps/Notes/app/src/main/AndroidManifest.xml:14:9-43
+23        <activity
+23-->/home/flexath/AndroidStudioProjects/Notes Apps/Notes/app/src/main/AndroidManifest.xml:16:9-24:20
+24            android:name="com.flexath.notes.ui.MainActivity"
+24-->/home/flexath/AndroidStudioProjects/Notes Apps/Notes/app/src/main/AndroidManifest.xml:17:13-44
+25            android:exported="true" >
+25-->/home/flexath/AndroidStudioProjects/Notes Apps/Notes/app/src/main/AndroidManifest.xml:18:13-36
+26            <intent-filter>
+26-->/home/flexath/AndroidStudioProjects/Notes Apps/Notes/app/src/main/AndroidManifest.xml:19:13-23:29
+27                <action android:name="android.intent.action.MAIN" />
+27-->/home/flexath/AndroidStudioProjects/Notes Apps/Notes/app/src/main/AndroidManifest.xml:20:17-69
+27-->/home/flexath/AndroidStudioProjects/Notes Apps/Notes/app/src/main/AndroidManifest.xml:20:25-66
+28
+29                <category android:name="android.intent.category.LAUNCHER" />
+29-->/home/flexath/AndroidStudioProjects/Notes Apps/Notes/app/src/main/AndroidManifest.xml:22:17-77
+29-->/home/flexath/AndroidStudioProjects/Notes Apps/Notes/app/src/main/AndroidManifest.xml:22:27-74
+30            </intent-filter>
+31        </activity>
+32
+33        <meta-data
+33-->/home/flexath/AndroidStudioProjects/Notes Apps/Notes/app/src/main/AndroidManifest.xml:25:9-27:57
+34            android:name="preloaded_fonts"
+34-->/home/flexath/AndroidStudioProjects/Notes Apps/Notes/app/src/main/AndroidManifest.xml:26:13-43
+35            android:resource="@array/preloaded_fonts" />
+35-->/home/flexath/AndroidStudioProjects/Notes Apps/Notes/app/src/main/AndroidManifest.xml:27:13-54
+36
+37        <uses-library
+37-->[androidx.window:window:1.0.0] /home/flexath/.gradle/caches/transforms-3/b78b12446456cc9b94381cebbe873725/transformed/window-1.0.0/AndroidManifest.xml:25:9-27:40
+38            android:name="androidx.window.extensions"
+38-->[androidx.window:window:1.0.0] /home/flexath/.gradle/caches/transforms-3/b78b12446456cc9b94381cebbe873725/transformed/window-1.0.0/AndroidManifest.xml:26:13-54
+39            android:required="false" />
+39-->[androidx.window:window:1.0.0] /home/flexath/.gradle/caches/transforms-3/b78b12446456cc9b94381cebbe873725/transformed/window-1.0.0/AndroidManifest.xml:27:13-37
+40        <uses-library
+40-->[androidx.window:window:1.0.0] /home/flexath/.gradle/caches/transforms-3/b78b12446456cc9b94381cebbe873725/transformed/window-1.0.0/AndroidManifest.xml:28:9-30:40
+41            android:name="androidx.window.sidecar"
+41-->[androidx.window:window:1.0.0] /home/flexath/.gradle/caches/transforms-3/b78b12446456cc9b94381cebbe873725/transformed/window-1.0.0/AndroidManifest.xml:29:13-51
+42            android:required="false" />
+42-->[androidx.window:window:1.0.0] /home/flexath/.gradle/caches/transforms-3/b78b12446456cc9b94381cebbe873725/transformed/window-1.0.0/AndroidManifest.xml:30:13-37
+43
+44        <service
+44-->[androidx.room:room-runtime:2.4.3] /home/flexath/.gradle/caches/transforms-3/1fcbddf6d9404e5566fc76f765ca8e6b/transformed/room-runtime-2.4.3/AndroidManifest.xml:25:9-28:40
+45            android:name="androidx.room.MultiInstanceInvalidationService"
+45-->[androidx.room:room-runtime:2.4.3] /home/flexath/.gradle/caches/transforms-3/1fcbddf6d9404e5566fc76f765ca8e6b/transformed/room-runtime-2.4.3/AndroidManifest.xml:26:13-74
+46            android:directBootAware="true"
+46-->[androidx.room:room-runtime:2.4.3] /home/flexath/.gradle/caches/transforms-3/1fcbddf6d9404e5566fc76f765ca8e6b/transformed/room-runtime-2.4.3/AndroidManifest.xml:27:13-43
+47            android:exported="false" />
+47-->[androidx.room:room-runtime:2.4.3] /home/flexath/.gradle/caches/transforms-3/1fcbddf6d9404e5566fc76f765ca8e6b/transformed/room-runtime-2.4.3/AndroidManifest.xml:28:13-37
+48
+49        <provider
+49-->[androidx.emoji2:emoji2:1.2.0] /home/flexath/.gradle/caches/transforms-3/b988f67f4b01184c811cdd2f5b507f6d/transformed/emoji2-1.2.0/AndroidManifest.xml:24:9-32:20
+50            android:name="androidx.startup.InitializationProvider"
+50-->[androidx.emoji2:emoji2:1.2.0] /home/flexath/.gradle/caches/transforms-3/b988f67f4b01184c811cdd2f5b507f6d/transformed/emoji2-1.2.0/AndroidManifest.xml:25:13-67
+51            android:authorities="com.flexath.notes.androidx-startup"
+51-->[androidx.emoji2:emoji2:1.2.0] /home/flexath/.gradle/caches/transforms-3/b988f67f4b01184c811cdd2f5b507f6d/transformed/emoji2-1.2.0/AndroidManifest.xml:26:13-68
+52            android:exported="false" >
+52-->[androidx.emoji2:emoji2:1.2.0] /home/flexath/.gradle/caches/transforms-3/b988f67f4b01184c811cdd2f5b507f6d/transformed/emoji2-1.2.0/AndroidManifest.xml:27:13-37
+53            <meta-data
+53-->[androidx.emoji2:emoji2:1.2.0] /home/flexath/.gradle/caches/transforms-3/b988f67f4b01184c811cdd2f5b507f6d/transformed/emoji2-1.2.0/AndroidManifest.xml:29:13-31:52
+54                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+54-->[androidx.emoji2:emoji2:1.2.0] /home/flexath/.gradle/caches/transforms-3/b988f67f4b01184c811cdd2f5b507f6d/transformed/emoji2-1.2.0/AndroidManifest.xml:30:17-75
+55                android:value="androidx.startup" />
+55-->[androidx.emoji2:emoji2:1.2.0] /home/flexath/.gradle/caches/transforms-3/b988f67f4b01184c811cdd2f5b507f6d/transformed/emoji2-1.2.0/AndroidManifest.xml:31:17-49
+56            <meta-data
+56-->[androidx.lifecycle:lifecycle-process:2.4.1] /home/flexath/.gradle/caches/transforms-3/7305acb248aec9427c05608db2526d9e/transformed/lifecycle-process-2.4.1/AndroidManifest.xml:31:13-33:52
+57                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+57-->[androidx.lifecycle:lifecycle-process:2.4.1] /home/flexath/.gradle/caches/transforms-3/7305acb248aec9427c05608db2526d9e/transformed/lifecycle-process-2.4.1/AndroidManifest.xml:32:17-78
+58                android:value="androidx.startup" />
+58-->[androidx.lifecycle:lifecycle-process:2.4.1] /home/flexath/.gradle/caches/transforms-3/7305acb248aec9427c05608db2526d9e/transformed/lifecycle-process-2.4.1/AndroidManifest.xml:33:17-49
+59        </provider>
+60    </application>
+61
+62</manifest>

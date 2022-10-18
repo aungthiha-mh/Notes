@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "com.flexath.notes.app-mergeDebugResources-52:/layout/list_item.xml",
+        "source": "com.flexath.notes.app-main-55:/layout/list_item.xml"
+    },
+    {
+        "merged": "com.flexath.notes.app-mergeDebugResources-52:/layout/fragment_add_note.xml",
+        "source": "com.flexath.notes.app-main-55:/layout/fragment_add_note.xml"
+    },
+    {
+        "merged": "com.flexath.notes.app-mergeDebugResources-52:/layout/fragment_update_note.xml",
+        "source": "com.flexath.notes.app-main-55:/layout/fragment_update_note.xml"
+    },
+    {
+        "merged": "com.flexath.notes.app-mergeDebugResources-52:/layout/activity_main.xml",
+        "source": "com.flexath.notes.app-main-55:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.flexath.notes.app-mergeDebugResources-52:/layout/fragment_home.xml",
+        "source": "com.flexath.notes.app-main-55:/layout/fragment_home.xml"
+    }
+]
